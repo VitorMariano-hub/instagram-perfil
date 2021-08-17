@@ -7,3 +7,5 @@ Tecnologias utilizadas:
 
 Nesse projeto desenvolvi o conceito de Flexbox para o posicionamento dos elementos na tela, também apliquei responsividade com media queries.
 
+![](https://uploaddeimagens.com.br/images/003/385/186/original/cloneInsta.PNG?1629216961)
+
